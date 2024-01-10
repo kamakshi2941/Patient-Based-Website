@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewData["Title"] = "RoleList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>RoleList</h1>
+@if (ViewBag.RoleList != null)
+{
+    <a class="btn btn-primary" asp-controller="KPRole" asp-action="CreateRole">Add Role</a>
+        <form method="post" asp-action="CreateRole">
+            <hr />
+
+        </form>
+
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Role
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var role in ViewBag.RoleList)
+            {
+                        <tr>
+                            <td>
+                        @role.Name
+                            </td>
+
+                            <td>
+                                <a asp-controller="KPRole" asp-action="UserRole" asp-route-RoleId="@role.Id">Users Role</a> |
+
+                        @if (role.Name.ToLower() != "administrators")
+                        {
+                                        <a asp-controller="KPRole" asp-action="Delete" asp-route-id="@role.Id">Delete Role</a>
+                        }
+                            </td>
+                        </tr>
+            }
+        </table>
+}
+

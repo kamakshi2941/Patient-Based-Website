@@ -1,0 +1,24 @@
+C:\Users\kamak\Desktop\KPPatients\KPClassLibrary\bin\Debug\net6.0\KPClassLibrary.deps.json
+C:\Users\kamak\Desktop\KPPatients\KPClassLibrary\bin\Debug\net6.0\KPClassLibrary.dll
+C:\Users\kamak\Desktop\KPPatients\KPClassLibrary\bin\Debug\net6.0\KPClassLibrary.pdb
+C:\Users\kamak\Desktop\KPPatients\KPClassLibrary\obj\Debug\net6.0\KPClassLibrary.csproj.AssemblyReference.cache
+C:\Users\kamak\Desktop\KPPatients\KPClassLibrary\obj\Debug\net6.0\KPClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamak\Desktop\KPPatients\KPClassLibrary\obj\Debug\net6.0\KPClassLibrary.AssemblyInfoInputs.cache
+C:\Users\kamak\Desktop\KPPatients\KPClassLibrary\obj\Debug\net6.0\KPClassLibrary.AssemblyInfo.cs
+C:\Users\kamak\Desktop\KPPatients\KPClassLibrary\obj\Debug\net6.0\KPClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kamak\Desktop\KPPatients\KPClassLibrary\obj\Debug\net6.0\KPClassLibrary.dll
+C:\Users\kamak\Desktop\KPPatients\KPClassLibrary\obj\Debug\net6.0\refint\KPClassLibrary.dll
+C:\Users\kamak\Desktop\KPPatients\KPClassLibrary\obj\Debug\net6.0\KPClassLibrary.pdb
+C:\Users\kamak\Desktop\KPPatients\KPClassLibrary\obj\Debug\net6.0\ref\KPClassLibrary.dll
+C:\Users\kamak\Desktop\PROG8110- Mobile development\KPPatients\KPClassLibrary\bin\Debug\net6.0\KPClassLibrary.deps.json
+C:\Users\kamak\Desktop\PROG8110- Mobile development\KPPatients\KPClassLibrary\bin\Debug\net6.0\KPClassLibrary.dll
+C:\Users\kamak\Desktop\PROG8110- Mobile development\KPPatients\KPClassLibrary\bin\Debug\net6.0\KPClassLibrary.pdb
+C:\Users\kamak\Desktop\PROG8110- Mobile development\KPPatients\KPClassLibrary\obj\Debug\net6.0\KPClassLibrary.csproj.AssemblyReference.cache
+C:\Users\kamak\Desktop\PROG8110- Mobile development\KPPatients\KPClassLibrary\obj\Debug\net6.0\KPClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamak\Desktop\PROG8110- Mobile development\KPPatients\KPClassLibrary\obj\Debug\net6.0\KPClassLibrary.AssemblyInfoInputs.cache
+C:\Users\kamak\Desktop\PROG8110- Mobile development\KPPatients\KPClassLibrary\obj\Debug\net6.0\KPClassLibrary.AssemblyInfo.cs
+C:\Users\kamak\Desktop\PROG8110- Mobile development\KPPatients\KPClassLibrary\obj\Debug\net6.0\KPClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kamak\Desktop\PROG8110- Mobile development\KPPatients\KPClassLibrary\obj\Debug\net6.0\KPClassLibrary.dll
+C:\Users\kamak\Desktop\PROG8110- Mobile development\KPPatients\KPClassLibrary\obj\Debug\net6.0\refint\KPClassLibrary.dll
+C:\Users\kamak\Desktop\PROG8110- Mobile development\KPPatients\KPClassLibrary\obj\Debug\net6.0\KPClassLibrary.pdb
+C:\Users\kamak\Desktop\PROG8110- Mobile development\KPPatients\KPClassLibrary\obj\Debug\net6.0\ref\KPClassLibrary.dll

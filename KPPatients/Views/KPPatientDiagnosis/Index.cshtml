@@ -1,0 +1,50 @@
+﻿@model IEnumerable<KPPatients.Models.PatientDiagnosis>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Add Patient Diagnosis</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayName("Patient's FullName")
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Diagnosis)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.LastName), @Html.DisplayFor(modelItem => item.Patient.FirstName)
+                </td>
+                <td>
+                    <a asp-controller="KPPatientTreatment" asp-action="Index"
+                   asp-route-PatientDiagnosisId="@item.PatientDiagnosisId"
+                   asp-route-PatientName="@item.Patient.LastName, @item.Patient.FirstName"
+                   asp-route-DiagnosisName="@item.Diagnosis.Name">
+                        @Html.DisplayFor(modelItem => item.Diagnosis.Name)
+                    </a>
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.PatientDiagnosisId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.PatientDiagnosisId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.PatientDiagnosisId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

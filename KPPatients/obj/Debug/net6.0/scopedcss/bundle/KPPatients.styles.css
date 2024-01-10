@@ -1,0 +1,115 @@
+/* _content/KPPatients/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-1kl0hy6vo1] 
+{
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-1kl0hy6vo1] 
+{
+  color: #0077cc;
+}
+
+.btn-primary[b-1kl0hy6vo1] 
+{
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-1kl0hy6vo1], .nav-pills .show > .nav-link[b-1kl0hy6vo1] 
+{
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-1kl0hy6vo1] 
+{
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-1kl0hy6vo1] 
+{
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-1kl0hy6vo1] 
+{
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-1kl0hy6vo1] 
+{
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-1kl0hy6vo1] 
+{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+.container[b-1kl0hy6vo1]
+ {
+     float: left;
+ }
+
+.container1[b-1kl0hy6vo1]
+ {
+     float: right;
+ }
+ }
+.dropbtn[b-1kl0hy6vo1] 
+{
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown[b-1kl0hy6vo1] 
+{
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content[b-1kl0hy6vo1] 
+{
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a[b-1kl0hy6vo1] 
+{
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+}
+
+.dropdown-content a:hover[b-1kl0hy6vo1] 
+{
+    background-color: grey;
+}
+
+.dropdown:hover .dropdown-content[b-1kl0hy6vo1] 
+{
+    display: block;
+}
+
+.dropdown:hover .dropbtn[b-1kl0hy6vo1] 
+{
+    background-color: grey;
+}

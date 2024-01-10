@@ -1,0 +1,233 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KPPatients
+build_property.RootNamespace = KPPatients
+build_property.ProjectDir = C:\Users\kamak\Desktop\KPPatients\KPPatients\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kamak\Desktop\KPPatients\KPPatients
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPConcentrationUnit/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BDb25jZW50cmF0aW9uVW5pdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPConcentrationUnit/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BDb25jZW50cmF0aW9uVW5pdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPConcentrationUnit/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BDb25jZW50cmF0aW9uVW5pdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPConcentrationUnit/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BDb25jZW50cmF0aW9uVW5pdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPConcentrationUnit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BDb25jZW50cmF0aW9uVW5pdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPCountry/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BDb3VudHJ5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPCountry/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BDb3VudHJ5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPCountry/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BDb3VudHJ5XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPCountry/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BDb3VudHJ5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPCountry/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BDb3VudHJ5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPDiagnosisCategory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BEaWFnbm9zaXNDYXRlZ29yeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPDiagnosisCategory/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BEaWFnbm9zaXNDYXRlZ29yeVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPDiagnosisCategory/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BEaWFnbm9zaXNDYXRlZ29yeVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPDiagnosisCategory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BEaWFnbm9zaXNDYXRlZ29yeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPDiagnosisCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BEaWFnbm9zaXNDYXRlZ29yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPDispensingUnit/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BEaXNwZW5zaW5nVW5pdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPDispensingUnit/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BEaXNwZW5zaW5nVW5pdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPDispensingUnit/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BEaXNwZW5zaW5nVW5pdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPDispensingUnit/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BEaXNwZW5zaW5nVW5pdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPDispensingUnit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BEaXNwZW5zaW5nVW5pdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPMedications/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BNZWRpY2F0aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPMedications/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BNZWRpY2F0aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPMedications/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BNZWRpY2F0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPMedications/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BNZWRpY2F0aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPMedications/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BNZWRpY2F0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPMedicationType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BNZWRpY2F0aW9uVHlwZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPMedicationType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BNZWRpY2F0aW9uVHlwZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPMedicationType/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BNZWRpY2F0aW9uVHlwZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPMedicationType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BNZWRpY2F0aW9uVHlwZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPMedicationType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BNZWRpY2F0aW9uVHlwZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatientDiagnosis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50RGlhZ25vc2lzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatientDiagnosis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50RGlhZ25vc2lzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatientDiagnosis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50RGlhZ25vc2lzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatientDiagnosis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50RGlhZ25vc2lzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatientDiagnosis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50RGlhZ25vc2lzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatientTreatment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50VHJlYXRtZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatientTreatment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50VHJlYXRtZW50XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatientTreatment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50VHJlYXRtZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatientTreatment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50VHJlYXRtZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatientTreatment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50VHJlYXRtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatient/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatient/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatient/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatient/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/KPPatient/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS1BQYXRpZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamak/Desktop/KPPatients/KPPatients/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1kl0hy6vo1
